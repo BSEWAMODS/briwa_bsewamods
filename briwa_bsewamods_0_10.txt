@@ -1,0 +1,15 @@
+{"version_code":555555,"content":"
+<p>BRIWhatsApp V0.10</p>
+
+
+<li>[Mejorado] Se mejoraron los mods de media</li>
+<li>[Eliminado] Se eliminaron los codigos de baneo de WhatsApp</li>
+<li>[Eliminado] Mensaje de suspension Temporal</li>
+<li>[Mejorado] Diseño de WhatsApp Stock</li>
+<li>[Eliminado] Fix Home(Mod 1.6)</li>
+<li>Correcion de errores...</li>
+
+
+
+","url":"https://bsewamods-mini-max.000webhostapp.com"
+}
