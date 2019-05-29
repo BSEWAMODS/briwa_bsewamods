@@ -1,1 +1,11 @@
+{"version_code":99999999,"content":"
+<p>No updates</p>
 
+
+<li>No Updates</li>
+
+
+
+
+","url":"https://bsewamods-mini-max.000webhostapp.com/briwa.html"
+}
