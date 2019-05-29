@@ -1,22 +1,8 @@
-{"version_code":452778,"content":"
-<p>BRIWhatsApp V0.10</p>
+{"version_code":99999999,"content":"
+<p>No updates</p>
 
 
-<li>Nueva base actualizada a la 2.19.126 (Web)</li>
-<li>Privacidad habilitada</li>
-<li>[Habilitado] Stickers en estados y emojis</li>
-<li>[Habilitado] Opcion para ignorar chats archivados (Ajustes > Notificaciones)</li>
-<li>[Habilitado] Bloqueo por huella</li>
-<li>[Habilitado] Envio de documentos de mas de 100MB</li>
-<li>[Habilitado] Nuevo buscador de gifs</li>
-<li>[Habilitado] Habilitado Modo Noche en Ajustes (WhatsApp Beta)</li>
-<li>[Nuevo] Deslizar a la derecha para cerrar la conversacion</li>
-<li>[Nuevo] Opcion para habilitar seleccion de texto en una conversacion</li>
-<li>[Nuevo] Desactiva la etiqueta de Reenviado</li>
-<li>[Nuevo] Opcion para cortar la coneccion dentro de WhatsApp (DND MODE)</li>
-<li>[Nuevo] Carga cualquier fuente desde la app de whatsapp (Load Font)</li>
-<li>[Habilitado] Envio de chat a contacto no agendado</li>
-<li>[Habilitado] Checar actualizaciones en tiempo real</li>
+<li>No Updates</li>
 
 
 
