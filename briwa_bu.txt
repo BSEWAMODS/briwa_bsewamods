@@ -1,1 +1,16 @@
+{"version_code":5440,"content":"
+<p>BRIWhatsApp Business V0.10</p>
 
+
+<li>Nueva base actualizada a la 2.19.59
+<li>[Corregido] Fix SMS
+<li>[Habilitado] Privacidad (Ocultar Online, Visto de estados, Visto de Mensajes, Segundo Tick, Etiqueta de reenviado, Microfono Azul, Anti-Eliminar Mensajes y Estados)
+<li>[Nuevo] icono DND (Modo No Molestar)
+<li>[Exclusivo] Anti-Ban
+<li>[Nuevo] Seleccion de texto en la conversacion
+
+
+
+
+","url":"https://brianstudentdeveloperfyb.000webhostapp.com/"
+}
