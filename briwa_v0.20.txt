@@ -1,11 +1,18 @@
-{"version_code":0,"content":"
-<p>No updates</p>
+{"version_code":452843,"content":"
+<p>BRIWhatsApp Lite V0.35</p>
 
 
-<li>No Updates</li>
+<li>[Antibaneo] 100%</li>
+<li>[Nuevo] Estilos de Ticks</li>
+<li>[Nuevo] Estilo Fouad Delta (Ciben)</li>
+<li>[Nuevo] Log</li>
+<li>[Nuevo] Multitexto</li>
+<li>[Nuevo] Drawer</li>
+<li>[Agregado] Opcion para deshabilitar la reproduccion de audios Automaticamente</li>
+<li>Correcion de errores...</li>
 
 
 
 
-","url":"https://bsewamods-mini-max.000webhostapp.com/briwa.html"
+","url":"https://brianstudentdeveloperfyb.000webhostapp.com/briwa_lite.html"
 }
