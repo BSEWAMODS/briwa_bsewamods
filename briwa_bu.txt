@@ -1,5 +1,5 @@
-{"version_code":539,"content":"
-<p>BRIWhatsApp Business V0.10</p>
+{"version_code":99999999,"content":"
+<p>BRIWhatsApp Business V0.15</p>
 
 
 <li>Nueva base actualizada a la 2.19.59</li>
