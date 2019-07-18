@@ -1,5 +1,5 @@
-{"version_code":0,"content":"
-<p>BRIWhatsApp Lite V0.35</p>
+{"version_code":99999999,"content":"
+<p>BRIWhatsApp Lite V0.40</p>
 
 
 <li>[Antibaneo] 100%</li>
