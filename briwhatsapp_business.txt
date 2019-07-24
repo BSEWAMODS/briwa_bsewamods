@@ -1,1 +1,37 @@
+{"version_code":549,"content":"
+<p>BRIWhatsApp Business V0.20 Actualizacion</p>
 
+
+<li>Nueva base actualizada a la 2.19.63</li>
+<li>[Mas] Antibaneo 100%</li>
+<li>[Habilitado] Stickers en estados</li>
+<li>[Habilitado] Ignorar Chats Archivados</li>
+<li>[Habilitado] Bloqueo por huella</li>
+<li>[Agregado] MultiChats</li>
+<li>[Nuevo] Desliza a la derecha para cerrar la conversacion</li>
+<li>[Nuevo] BigText en estados</li>
+<li>[Nuevo] Opcion para cambiar el color de estados a tu preferido</li>
+<li>[Habilitado] Descarga Estados</li>
+<li>[Agregado] Opcion para ocultar las notificaciones</li>
+<li>[Agregado] Opcion para ocultar notificacion de reproduccion de audio</li>
+<li>[Agregado] Opcion para habilitar el sensor de proximidad</li>
+<li>[Agregado] Opcion para deshabilitar la reproduccion de audios automaticamente</li>
+<li>[Nuevo] Estilo Old UI 2014</li>
+<li>[Agregado] Opcion para ocultar estados recientes</li>
+<li>[Agregado] Opcion para ocultar estados vistos</li>
+<li>[Agregado] Opcion para ocultar estados silenciados</li>
+<li>[Agregado] Opcion para Bloquear la aplicacion de BRIWhatsApp Business</li>
+<li>[Agregado] Efectos 3D</li>
+<li>[Agregado] Efectos de lista</li>
+<li>[Corregido] Ocultar el visto de estados</li>
+<li>[Nuevo] Opcion para cambiar el estilo de fuente</li>
+<li>[Nuevo] Backup and Restore</li>
+<li>[Nuevo] Modo Oscuro en los ajustes Plus</li>
+<li>[Nuevo] Opcion para Aumentar el limite de video a 700MB</li>
+<li>Limite de expiracion aumentada</li>
+
+
+
+
+","url":"https://brianstudentdeveloperfyb.000webhostapp.com/briwa_business.html"
+}
