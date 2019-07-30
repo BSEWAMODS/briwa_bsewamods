@@ -1,4 +1,4 @@
-{"version_code":0,"content":"
+{"version_code":999999999,"content":"
 <p>BRIWhatsApp Lite V0.35</p>
 
 
