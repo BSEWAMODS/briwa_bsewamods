@@ -1,1 +1,25 @@
+{"version_code":9999999,"content":"
+<p>BRIWhatsApp Lite V0.55</p>
 
+
+<li>[Base] Base Actualizada a la 2.19.257 (web)</li>
+<li>Privacidad Habilitada</li>
+<li>Privacidad Perzonalizada (Habilitada)</li>
+<li>[Agregado] Modo DND (Desactivar conexion a internet en WhatsApp)</li>
+<li>[Agregado] Deslizar a la derecha para cerrar la conversacion</li>
+<li>[Agregado] Color de fondo de estados personalizado</li>
+<li>[Habilitado] Descargar Estados</li>
+<li>[Agregado] Toast cuando alguien ve tu estado</li>
+<li>[Agregado] Desactivar la reproduccion de audios automaticamente</li>
+<li>[Agragado] Cargar Fuentes (.ttf)</li>
+<li>[Agregado] BigText en estados</li>
+<li>[Nuevo] Verificar si el numero tiene WhatsApp</li>
+<li>[Agregado] Bloqueo para la aplicacion de BRIWhatsApp Lite</li>
+<li>[Agregado] Desactiva la etiqueta de reenviado</li>
+<li>[Habilitado] Caracteristicas Ocultas</li>
+
+
+
+
+","url":"https://brianstudentdeveloperfyb.000webhostapp.com/briwa_lite.html"
+}
