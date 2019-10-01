@@ -1,15 +1,13 @@
-{"version_code":0,"content":"
-<p>BRIWhatsApp Lite V0.35</p>
+{"version_code":452971,"content":"
+<p>BRIWhatsApp Lite V0.60</p>
 
 
-<li>[Antibaneo] 100%</li>
-<li>[Nuevo] Estilos de Ticks</li>
-<li>[Nuevo] Estilo Fouad Delta (Ciben)</li>
-<li>[Nuevo] Log</li>
-<li>[Nuevo] Multitexto</li>
-<li>[Nuevo] Drawer</li>
-<li>[Agregado] Opcion para deshabilitar la reproduccion de audios Automaticamente</li>
-<li>Correcion de errores...</li>
+<li>[Corregido] Privacidad Personalizada</li>
+<li>[Agregados] Opcion para poner emojis antiguos</li>
+<li>[Agregado] Estilo Fouad Delta (Ciben)</li>
+<li>[Agregado] Backup and Restore</li>
+<li>[Agregado] Opcion para eliminar emojis recientes</li>
+<li>[Agregado] Opcion para creditos</li>
 
 
 
