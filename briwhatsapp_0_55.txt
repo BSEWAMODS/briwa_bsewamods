@@ -1,13 +1,12 @@
-{"version_code":452971,"content":"
-<p>BRIWhatsApp Lite V0.60</p>
+{"version_code":453036,"content":"
+<p>BRIWhatsApp Lite V0.65</p>
 
 
-<li>[Corregido] Privacidad Personalizada</li>
-<li>[Agregados] Opcion para poner emojis antiguos</li>
-<li>[Agregado] Estilo Fouad Delta (Ciben)</li>
-<li>[Agregado] Backup and Restore</li>
-<li>[Agregado] Opcion para eliminar emojis recientes</li>
-<li>[Agregado] Opcion para creditos</li>
+<li>[Nuevo] Nueva Base Actualizada a 2.19.305 (Web)</li>
+<li>[Agregado] Opcion para habilitar la seleccion de texto en el chat</li>
+<li>[Habilitado] Modo Oscuro (Fase Beta) WhatsApp Inc</li>
+<li>[Habilitado] Caracteristicas Ocultas</li>
+<li>[Agregado] Idioma Español (MAYDROID)</li>
 
 
 
