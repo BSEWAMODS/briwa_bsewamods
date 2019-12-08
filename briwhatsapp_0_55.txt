@@ -1,12 +1,10 @@
-{"version_code":453036,"content":"
-<p>BRIWhatsApp Lite V0.65</p>
+{"version_code":453104,"content":"
+<p>BRIWhatsApp Lite V0.80</p>
 
 
-<li>[Nuevo] Nueva Base Actualizada a 2.19.305 (Web)</li>
-<li>[Agregado] Opcion para habilitar la seleccion de texto en el chat</li>
-<li>[Habilitado] Modo Oscuro (Fase Beta) WhatsApp Inc</li>
-<li>[Habilitado] Caracteristicas Ocultas</li>
-<li>[Agregado] Idioma Español (MAYDROID)</li>
+<li>[Agregado] Icono de eliminado cuando se elimina un mensaje</li>
+<li>[Corregido] Idioma en Portugues (MAYCONMODS y ClebersonJrX)</li>
+<li>[Agregado] Cambiar estilos de informacion de contacto</li>
 
 
 
