@@ -1,10 +1,8 @@
-{"version_code":453104,"content":"
-<p>BRIWhatsApp Lite V0.80</p>
+{"version_code":453105,"content":"
+<p>BRIWhatsApp Lite V0.81 by BSEWAMODS</p>
 
 
-<li>[Agregado] Icono de eliminado cuando se elimina un mensaje</li>
-<li>[Corregido] Idioma en Portugues (MAYCONMODS y ClebersonJrX)</li>
-<li>[Agregado] Cambiar estilos de informacion de contacto</li>
+<li>[Corregido] Ocultar Microfono Azul (Privacidad)</li>
 
 
 
