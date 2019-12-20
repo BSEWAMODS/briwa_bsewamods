@@ -1,11 +1,11 @@
-{"version_code":453105,"content":"
-<p>BRIWhatsApp Lite V0.81 by BSEWAMODS</p>
+{"version_code":180322800,"content":"
+<p>BRIINSTAGRAM V0.10</p>
 
 
-<li>[Corregido] Ocultar Microfono Azul (Privacidad)</li>
+<li>HOLI</li>
 
 
 
 
-","url":"https://brianstudentdeveloperfyb.000webhostapp.com/briwa_lite.html"
+","url":"https://bsewamodsmods.000webhostapp.com/"
 }
