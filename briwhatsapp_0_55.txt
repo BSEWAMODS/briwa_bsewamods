@@ -10,7 +10,6 @@
 <li>[Corregido] Ocultar El segundo Tick</li>
 <li>[Mejorado] Icono de eliminado cuando se elimina un mensaje</li>
 <li>[Corregido] Fluidez en la aplicacion</li>
-<li>[Agregado] Opcion para borrar el cache de la aplicacion</li>
 
 
 
