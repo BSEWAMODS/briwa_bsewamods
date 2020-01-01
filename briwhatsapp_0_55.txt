@@ -1,15 +1,12 @@
-{"version_code":453126,"content":"
-<p>BRIWhatsApp Lite V0.85 by BSEWAMODS</p>
+{"version_code":453127,"content":"
+<p>BRIWhatsApp Lite V0.90 by BSEWAMODS</p>
 
 
-<li>[Nuevo] Nueva Base Actualizada a 2.19.362 (Web)</li>
-<li>[Removido] AutoTexto</li>
-<li>[Removido] Modo oscuro (se habilitara cuando sea de manera oficial)</li>
-<li>[Corregido] Ocultar Visto de estados</li>
-<li>[Corregido] Ocultar Microfono Azul</li>
-<li>[Corregido] Ocultar El segundo Tick</li>
-<li>[Mejorado] Icono de eliminado cuando se elimina un mensaje</li>
-<li>[Corregido] Fluidez en la aplicacion</li>
+<li>[Nuevo] Opcion para desactivar la animacion del corazon dentro de una conversacion</li>
+<li>[Agregado] Opcion para cambiar el color verde dentro de la app</li>
+<li>[Agregado] Opcion para la interfaz 2014</li>
+<li>[Agregado] Opcion para colocar foto centrada en la conversacion</li>
+<li>[Mas] Antibaneo</li>
 
 
 
