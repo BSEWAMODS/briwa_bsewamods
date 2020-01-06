@@ -1,12 +1,9 @@
-{"version_code":453127,"content":"
-<p>BRIWhatsApp Lite V0.90 by BSEWAMODS</p>
+{"version_code":453128,"content":"
+<p>BRIWhatsApp Lite V0.91 by BSEWAMODS</p>
 
 
-<li>[Nuevo] Opcion para desactivar la animacion del corazon dentro de una conversacion</li>
-<li>[Agregado] Opcion para cambiar el color verde dentro de la app</li>
-<li>[Agregado] Opcion para la interfaz 2014</li>
-<li>[Agregado] Opcion para colocar foto centrada en la conversacion</li>
-<li>[Mas] Antibaneo</li>
+<li>[Corregido] Error de consumo de bateria</li>
+<li>[Corregido] Error de consumo de datos</li>
 
 
 
