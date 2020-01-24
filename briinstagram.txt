@@ -1,14 +1,9 @@
-{"version_code":180322802,"content":"
-<p>BRIINSTAGRAM V0.20 By BSEWAMODS</p>
+{"version_code":192992565,"content":"
+<p>BRIINSTAGRAM V0.30 By BSEWAMODS</p>
 
 
-<li>[Agregado] Opcion para deshabilitar la reproduccion automatica de las historias</li>
-<li>[Agregado] Opcion para abrir las historias sin recortes</li>
-<li>[Super Exclusivo] Ahora puedes iniciar sesion con facebook sin necesidad de desintalar la aplicacion</li>
-<li>[Agregado] Posibilidad de copiar comentarios (Selecciones el comentario &gt; pulsar el icono de copiar)</li>
-<li>[Agregado] Opcion para aumentar la calidad de las imagenes</li>
-<li>[Agregado] Opcion para colocar tema oscuro en el acerca de la aplicacion</li>
-<li>Para acceder a los ajustes del mod deja pulsado el icono de incio en la aplicacion</li>
+<li>[Nueva] Base Actualizada a 124.0.0.17.473</li>
+<li>Recuerda que puedes iniciar sesion con facebook sin necesidad de desintalar la aplicacion de facebook</li>
 
 
 
