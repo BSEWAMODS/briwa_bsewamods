@@ -1,9 +1,16 @@
-{"version_code":453128,"content":"
-<p>BRIWhatsApp Lite V0.91 by BSEWAMODS</p>
+{"version_code":453153,"content":"
+<p>BRIWhatsApp Lite V0.95 by BSEWAMODS</p>
 
 
-<li>[Corregido] Error de consumo de bateria</li>
-<li>[Corregido] Error de consumo de datos</li>
+<li>[Nuevo] Nueva Base Actualizada a 2.20.17 (Web)</li>
+<li>[Agregado] Opcion para colocar nombre, estado y numero en la cabecera del inicio</li>
+<li>[Agregado] Contador de mensajes en grupos</li>
+<li>[Agregado] Opcion para colorear las burbujas de conversacion</li>
+<li>[Agregado] Opcion para colorear el texto de las burbujas de conversacion</li>
+<li>[Habilitado] Stickers Animados</li>
+<li>[Habilitado] Modo Oscuro</li>
+<li>[Agregado] Posibilidad de fijar mas de 3 Chats</li>
+<li>[Removido] Opcion para deshabilitar la reproduccion automatica de los audios</li>
 
 
 
