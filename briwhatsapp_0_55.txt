@@ -1,10 +1,12 @@
-{"version_code":453164,"content":"
-<p>BRIWhatsApp Lite V0.99 by BSEWAMODS</p>
+{"version_code":453216,"content":"
+<p>BRIWhatsApp Lite V1.00 by BSEWAMODS</p>
 
 
-<li>[Nuevo] Nueva Base Actualizada a 2.20.27 (PlayStore)</li>
-<li>[Corregido] Descarga de estados (Antes solo descargaba el primer estado de la persona)</li>
-<li>[Mejorado] Modo DND (Ahora puedes cortar la conexion a internet desde el icono de DND en el inicio)</li>
+<li>[Nuevo] Nueva Base Actualizada a 2.20.64 (Play Store)</li>
+<li>[Agregado] Fab para borrar el registro de llamadas</li>
+<li>[Habilitado] Modo oscuro (Ve a chats > Tema)</li>
+<li>[Corregido] Ocultar el visto de estados</li>
+<li>[Nuevo] Apartado para borrar cache dentro de la app</li>
 
 
 
