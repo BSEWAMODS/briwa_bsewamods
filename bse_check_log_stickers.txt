@@ -1,1 +1,11 @@
+{"version_code":17,"content":"
+<p>STICKERS+ BY BSEWAMODS</p>
 
+
+<li>[Nuevo] Nueva Base Actualizada a 1.15</li>
+
+
+
+
+","url":"http://bsewamods.epizy.com"
+}
