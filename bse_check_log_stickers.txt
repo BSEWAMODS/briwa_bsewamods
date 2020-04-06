@@ -1,8 +1,9 @@
-{"version_code":16,"content":"
+{"version_code":17,"content":"
 <p>STICKERS+ BY BSEWAMODS</p>
 
 
-<li>[Nuevo] Nueva Base Actualizada a 1.15</li>
+<li>[Corregido] Cierre de la aplicacion al añadir stickers al paquete (COM.WHATSAPP)</li>
+<li>[Agregado] Pantalla de acerca de la informacion</li>
 
 
 
