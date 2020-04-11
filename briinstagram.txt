@@ -1,17 +1,8 @@
-{"version_code":206670920,"content":"
-<p>BRIINSTAGRAM V0.40 By BSEWAMODS</p>
+{"version_code":2066709999,"content":"
+<h3>BRIINSTAGRAM DESCONTINUADO</h3>
 
 
-<li>Nueva Base Actualizada a 135.0.0.28.119</li>
-<li>[Nuevo] Modo oscuro habilitado de manera oficial</li>
-<li>[Agregado] Opcion para descargar historias</li>
-<li>[Agregado] Opcion para ocultar anuncios (Ads)</li>
-<li>[Agregado] Opcion para Ocultar sugerencia de usuarios</li>
-<li>[Agregado] Opcion para remover el post de likes</li>
-<li>[Agregado] Opcion para ocultar los Analitics</li>
-<li>[Removido] Opciones de la version 0.30</li>
-<li>[Añadido] (Privacidad) Ocultar visto de estados</li>
-<li>[Añadido] (Privacidad) Ocultar visto en Mensajes (DM)</li>
+<li>DESCONTINUADO</li>
 
 
 
