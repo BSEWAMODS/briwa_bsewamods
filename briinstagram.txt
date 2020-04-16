@@ -1,8 +1,9 @@
-{"version_code":206670922,"content":"
-<p>BRIINSTAGRAM DESCONTINUADO</p>
+{"version_code":206670921,"content":"
+<p>BRIINSTAGRAM V0.50 By BSEWAMODS</p>
 
 
-<li>DESCONTINUADO</li>
+<li>[Nuevo] Efectos de nieve</li>
+<li>[Nuevo] Opcion para cambiar la fuente de la aplicacion</li>
 
 
 
