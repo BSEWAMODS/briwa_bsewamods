@@ -1,9 +1,12 @@
 {"version_code":206670922,"content":"
-<p>BRIINSTAGRAM V0.50 By BSEWAMODS</p>
+<p>BRIINSTAGRAM V0.55 By BSEWAMODS</p>
 
 
-<li>[Nuevo] Efectos de nieve</li>
-<li>[Nuevo] Opcion para cambiar la fuente de la aplicacion</li>
+<li>Nueva Base Actualizada a 138.0.0.28.117</li>
+<li>[Nuevo] [Reorganizado] Menu de ajustes extra</li>
+<li>[Nuevo] Opcion para ocultar escribiendo (Mod 1.3)</li>
+<li>[Agregado] Opcion para habilitar la reproduccion automatica de videos (Mod 2.8)</li>
+<li>[Corregido] Ocultar el visto en mensajes</li>
 
 
 
