@@ -5,9 +5,6 @@
 <li>[Agregado] Mod 3 (Media Mods) (Incrementar Calidad de imagenes)(Incrementar Calidad de las historias) [Thanks InstaMod)]</li>
 <li>[Agregado] Posibilidad de copiar comentarios</li>
 <li>[Agregado] Opcion para ocultar historias en el inicio (Mod 2.9)</li>
-<li>[Agregado] Posibilidad de copiar estados de los usuarios</li>
-<li>[Agregado] Soporte de links</li>
-<li>[Corregido] Errores en algunos dispositivos</li>
 
 
 
