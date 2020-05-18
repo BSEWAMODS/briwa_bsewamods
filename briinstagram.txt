@@ -1,13 +1,19 @@
-{"version_code":210180514,"content":"
-<p>BRIINSTAGRAM V0.60 (FIX) By BSEWAMODS</p>
+{"version_code":212676878,"content":"
+<p>BRIINSTAGRAM V0.65 By BSEWAMODS</p>
 
 
-<li>[Agregado] Mod 3 (Media Mods) (Incrementar Calidad de imagenes)(Incrementar Calidad de las historias) [Thanks InstaMod)]</li>
-<li>[Agregado] Posibilidad de copiar comentarios</li>
-<li>[Agregado] Opcion para ocultar historias en el inicio (Mod 2.9)</li>
+<li>Base Actualizada 140.0.0.30.126</li>
+<li>Agregado Zoom en las fotos de perfil</li>
+<li>Agregado Opcion para habilitar las historias con sonido</li>
+<li>Agregado Adelantar y retrazar videos en feed (Activar en modo desarrollador)&nbsp;</li>
+<li>MejoradoOcultar visto en historias</li>
+<li>Removido Opcion para desactivar los ads en el inicio</li>
+<li>Removido Opcion para desactivar las sugerencias de amigos</li>
+<li>Removido Opcion para desactivar el analitics</li>
+<li>NOTA Para copiar los comentarios (Deja presionado el comentario &gt; Pulsa los tres puntos)</li>
 
 
 
 
-","url":"http://raboninco.com/TiRV"
+","url":"http://bsewamods.epizy.com/briinstagram.html"
 }
