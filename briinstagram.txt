@@ -15,5 +15,5 @@
 
 
 
-","url":"http://bsewamods.epizy.com/briinstagram.html"
+","url":"http://"
 }
