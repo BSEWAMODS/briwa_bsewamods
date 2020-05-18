@@ -1,5 +1,5 @@
-{"version_code":212676878,"content":"
-<p>BRIINSTAGRAM V0.65 By BSEWAMODS</p>
+{"version_code":212676879,"content":"
+<p>BRIINSTAGRAM V0.66 By BSEWAMODS</p>
 
 
 <li>Base Actualizada 140.0.0.30.126</li>
