@@ -1,0 +1,19 @@
+{"version_code":212676879,"content":"
+<p>BRIINSTAGRAM V0.66 By BSEWAMODS</p>
+
+
+<li>Base Actualizada 140.0.0.30.126</li>
+<li>Agregado Zoom en las fotos de perfil</li>
+<li>Agregado Opcion para habilitar las historias con sonido</li>
+<li>Agregado Adelantar y retrazar videos en feed (Activar en modo desarrollador)&nbsp;</li>
+<li>MejoradoOcultar visto en historias</li>
+<li>Removido Opcion para desactivar los ads en el inicio</li>
+<li>Removido Opcion para desactivar las sugerencias de amigos</li>
+<li>Removido Opcion para desactivar el analitics</li>
+<li>NOTA Para copiar los comentarios (Deja presionado el comentario &gt; Pulsa los tres puntos)</li>
+
+
+
+
+","url":"http://"
+}
