@@ -1,5 +1,5 @@
-{"version_code":453216,"content":"
-<p>BRIWhatsApp Lite V1.00 by BSEWAMODS</p>
+{"version_code":453217,"content":"
+<p>BRIWhatsApp Lite V1.05 by BSEWAMODS</p>
 
 
 <li>[Nuevo] Nueva Base Actualizada a 2.20.64 (Play Store)</li>
