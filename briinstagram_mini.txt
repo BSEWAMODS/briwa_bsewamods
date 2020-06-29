@@ -1,11 +1,8 @@
-{"version_code":219308730,"content":"
-<p>BRIINSTAGRAM MINI v1.00 By BSEWAMODS</p>
+{"version_code":225283625,"content":"
+<p>TEST</p>
 
 
-<li>[Nuevo] Base actualizada a la 145.0.0.32.119</li>
-<li>[Agragado] Ocultar visto de estados</li>
-<li>[Agregado] Ocultar visto en mensajes</li>
-<li>[Agregado] Ocultar Escribiendo...</li>
+<li>PRUEBA</li>
 
 
 
