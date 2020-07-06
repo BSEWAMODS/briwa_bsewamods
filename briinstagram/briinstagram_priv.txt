@@ -1,8 +1,8 @@
-{"version_code":225283625,"content":"
-<p>BRIINSTAGRAM V0.80 BY BSEWAMODS</p>
+{"version_code":225283627,"content":"
+<p>BRIINSTAGRAM V0.81 BY BSEWAMODS</p>
 
 
-<li>Nueva base actualizada</li>
+<li>FIXED</li>
 
 
 
