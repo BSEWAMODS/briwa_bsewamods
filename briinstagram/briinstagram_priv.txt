@@ -1,8 +1,11 @@
-{"version_code":225283625,"content":"
-<p>BRIINSTAGRAM V0.81 BY BSEWAMODS</p>
+{"version_code":225283626,"content":"
+<p>BRIINSTAGRAM FIXED V0.81 BY BSEWAMODS</p>
 
 
-<li>FIXED</li>
+<li>Agregado Opcion para desactivar las actualizaciones de la app (Beta)</li>
+<li>Corregido Cierre de la aplicacion al momento de ver los seguidores de los demas</li>
+<li>Corregido Cierre de la aplicacion al momento de registrarse</li>
+<li>Corregido Cierre de la aplicacion al momento de usar layout Instagram</li>
 
 
 
