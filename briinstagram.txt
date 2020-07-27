@@ -1,11 +1,11 @@
-{"version_code":21462881989,"content":"
-<p>DESCONTINUADO</p>
+{"version_code":21462881990,"content":"
+<p>GRUPO OFICIAL</p>
 
 
-<li>BRIINSTAGRAM DESCONTINUADO</li>
+<li>BRIINSTAGRAM V0.60</li>
 
 
 
 
-","url":"http://"
+","url":"https://t.me/BSEWAMODS_GROUP"
 }
