@@ -1,4 +1,4 @@
-{"version_code":204515001,"content":"
+{"version_code":204515002,"content":"
 <p>BRIWhatsApp Mini</p>
 
 
