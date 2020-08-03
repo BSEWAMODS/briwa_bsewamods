@@ -1,5 +1,5 @@
 {"version_code":225283626,"content":"
-<p>GRUPO MAYDROID</p>
+<p>GRUPO BRIWhatsApp Mini</p>
 
 
 <li>BRIINSTAGRAM V0.60</li>
@@ -7,5 +7,5 @@
 
 
 
-","url":"https://t.me/maydroid_mods"
+","url":"https://t.me/BRIWhatsApp_Mini"
 }
