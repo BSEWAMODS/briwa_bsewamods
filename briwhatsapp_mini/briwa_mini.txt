@@ -1,11 +1,16 @@
-{"version_code":204515001,"content":"
-<p>BRIWhatsApp Mini</p>
+{"version_code":204616001,"content":"
+<p>Actualización BRIWhatsApp Mini V2.00</p>
 
 
-<li>:)</li>
+<li>Nueva Base actualizada a la 2.20.196.16</li>
+<li>Agregado Enviar mensaje a un contacto no agendado</li>
+<li>Agregado Icono de eliminado 🚫 cuando se elimina un mensaje</li>
+<li>Agregado Posibilidad de fijar mas de 3 chats</li>
+<li>Removido Splash Screen</li>
+<li>Corregido Errores de la version 1.00</li>
 
 
 
 
-","url":"https://t.me/BRIINSTAGRAM_MINI"
+","url":"https://t.me/BRIWhatsApp_Mini"
 }
