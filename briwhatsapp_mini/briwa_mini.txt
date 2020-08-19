@@ -1,4 +1,4 @@
-{"version_code":204616003,"content":"
+{"version_code":0,"content":"
 <p>Actualización BRIWhatsApp Mini V3.00</p>
 
 
