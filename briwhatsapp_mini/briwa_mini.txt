@@ -1,10 +1,9 @@
-{"version_code":0,"content":"
-<p>Actualización BRIWhatsApp Mini V3.00</p>
+{"version_code":204720001,"content":"
+<p>BRIWA MINI 4.00 SOON</p>
 
 
-<li>Base 2.20.196.16</li>
+<li>Base XXXXXXXXX</li>
 <li>Rendimiento Y Optimizacion</li>
-<li>Nuevo Posibilidad de seleccionar el texto en una conversacion</li>
 
 
 
