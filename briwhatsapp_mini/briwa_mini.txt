@@ -1,4 +1,4 @@
-{"version_code":204720001,"content":"
+{"version_code":204720002,"content":"
 <p>BRIWA MINI 4.00 SOON</p>
 
 
