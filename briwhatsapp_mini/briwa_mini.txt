@@ -1,12 +1,13 @@
-{"version_code":204720001,"content":"
-<p>Únete a mi canal en telegram</p>
+{"version_code":205123001,"content":"
+<p>BRIWhatsApp V5.00</p>
 
 
-<li>BRIWhatsApp Mini</li>
-<li>❤GRACIAS POR EL APOYO❤</li>
+<li>Nueva base actualizada a la 2.20.201.23</li>
+<li>Agregado Color de fondo personalizado al escribir un estado</li>
+<li>Corregido Errores detectados en la version pasada<li>
 
 
 
 
-","url":"https://t.me/BRIWhatsApp_Mini"
+","url":"http://dev-bsewamods.epizy.com/briwa_mini.html"
 }
