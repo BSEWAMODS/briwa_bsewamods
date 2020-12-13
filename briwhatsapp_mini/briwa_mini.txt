@@ -1,5 +1,5 @@
-{"version_code":205123001,"content":"
-<p>BRIWhatsApp V5.00</p>
+{"version_code":0,"content":"
+<p>Actualizacion BRIWhatsApp Mini V6.00</p>
 
 
 <li>Nueva base actualizada a la 2.20.201.23</li>
@@ -9,5 +9,5 @@
 
 
 
-","url":"http://dev-bsewamods.epizy.com/briwa_mini.html"
+","url":"https://dev-bsewamods.epizy.com/briwa_mini.html"
 }
