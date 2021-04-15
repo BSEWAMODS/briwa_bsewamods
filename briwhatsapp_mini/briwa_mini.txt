@@ -1,15 +1,14 @@
-{"version_code":205624001,"content":"
-<p>Actualizacion BRIWhatsApp Mini V6.00</p>
+{"version_code":210617005,"content":"
+<p>Update BRIWA MINI V7.00</p>
 
 
-<li>Nueva Base Actualizada a la 2.20.206.24</li>
-<li>[Nuevo] Status Splitter (Cortador de estados a 30 segundos)(Fouad)</li>
-<li>[Nuevo] Estilo de inicio (Old Ui 2014)</li>
-<li>[Nuevo] Ahora puedes compartir los estados de tus contactos en otras redes sociales(3 puntos > Share...)(@NorahMods)</li>
-<li>[Agregados] Nuevos Emojis</li>
-<li>[Activadas] Algunas caracteristicas ocultas</li>
-<li>[Coregido] Descarga los estados de tus contactos incluso si el contacto esta silenciado</li>
-<li>[Coregido] Errores detectados en la version pasada</li>
+<li>[New] Base Update 2.21.6.17 (Playstore)</li>
+<li>[Added] Option Theme Blue in BRIWA Settings</li>
+<li>[Added] Crash Log</li>
+<li>[Added] Android 10 support</li>
+<li>[Added] New option privacy (Always Online)</li>
+<li>[Fixed] Bugs from the past version</li>
+<li>And more.....</li>
 
 
 
